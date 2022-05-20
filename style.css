@@ -4,7 +4,13 @@ body {
   /* background-color: antiquewhite; */
 }
 
-
+.top {
+  background-color: white;
+  color: midnightblue;
+  font-family: 'Tangerine', cursive;
+  font-size: 26px;
+  border-radius: 0;
+}
 
 /* font-family: 'Beau Rivage',
 cursive;

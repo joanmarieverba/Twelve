@@ -5,6 +5,11 @@ body {
 }
 
 
+.logo {
+  padding-right: 5px;
+
+}
+
 .lspace {
   padding-left: 24vw;
 }

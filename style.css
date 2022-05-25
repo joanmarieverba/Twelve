@@ -14,6 +14,13 @@ body {
   padding-left: 24vw;
 }
 
+.title {
+    color: midnightblue;
+    font-family: 'Tangerine', cursive;
+    font-size: 26px;
+
+}
+
 .top {
   /* background-color: white; */
   background: url('./images/clouds-fog.jpg');

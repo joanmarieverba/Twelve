@@ -4,6 +4,9 @@ body {
   background-color: azure;
 }
 
+cntr {
+  text-align: center;
+}
 
 .logo {
   padding-right: 5px;

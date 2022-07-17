@@ -31,7 +31,9 @@ body {
   color: antiquewhite;
   font-family: 'Tangerine', cursive;
   font-size: 36px;
+  font-stretch: expanded;
   border-radius: 0;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 ul {

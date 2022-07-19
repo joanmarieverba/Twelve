@@ -17,6 +17,10 @@ body {
   padding-left: 18vw;
 }
 
+.lspace3 {
+    padding-left: 4vw;
+}
+
 .titleChapter {
     color: midnightblue;
     font-family: 'Tangerine', cursive;
